@@ -24,7 +24,7 @@ while creating a fun, interactive card game.
 
 ## Live Demo Link
 
-[Live Demo]()
+[Live Demo](https://mohammadzali2005.github.io/blackjack-for-beginners/)
 
 ## 📄 License
 This project is open-source and available under the MIT License.
